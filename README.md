@@ -6,7 +6,7 @@ My solutions to CSES problems
 | Introductory Problems |     14/19     |
 | Sorting and Searching |     15/35     |
 | Dynamic Programming   |     00/19     |
-| Graph Algorithms      |     00/36     |
+| Graph Algorithms      |     05/36     |
 | Range Queries         |     00/19     |
 | Tree Algorithms       |     00/16     |
 | Mathematics           |     00/31     |
@@ -14,4 +14,4 @@ My solutions to CSES problems
 | Geometry              |      0/7      |
 | Advanced Techniques   |     00/24     |
 | Additional Problems   |     00/77     |
-| **Total**             |   **29/300**  |
+| **Total**             |   **34/300**  |
