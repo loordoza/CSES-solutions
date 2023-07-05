@@ -3,7 +3,7 @@ My solutions to CSES problems
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| Introductory Problems |     14/19     |
+| Introductory Problems |     18/19     |
 | Sorting and Searching |     15/35     |
 | Dynamic Programming   |     00/19     |
 | Graph Algorithms      |     05/36     |
@@ -14,4 +14,4 @@ My solutions to CSES problems
 | Geometry              |      0/7      |
 | Advanced Techniques   |     00/24     |
 | Additional Problems   |     00/77     |
-| **Total**             |   **34/300**  |
+| **Total**             |   **38/300**  |
