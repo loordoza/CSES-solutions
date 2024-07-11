@@ -9,9 +9,9 @@ My solutions to CSES problems
 | Graph Algorithms      |     09/36     |
 | Range Queries         |     00/19     |
 | Tree Algorithms       |     00/16     |
-| Mathematics           |     03/31     |
+| Mathematics           |     06/31     |
 | String Algorithms     |     01/17     |
 | Geometry              |      3/7      |
 | Advanced Techniques   |     00/24     |
 | Additional Problems   |     00/77     |
-| **Total**             |   **55/300**  |
+| **Total**             |   **58/300**  |
